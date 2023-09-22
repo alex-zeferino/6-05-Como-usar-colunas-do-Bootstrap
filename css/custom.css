@@ -1,0 +1,9 @@
+.conteudo{
+    width: 100%;
+    height: 100px;
+    background-color: #dc343c;
+    margin-top: 15px;
+}
+.coluna{
+    border: 1px solid #fff;
+}
